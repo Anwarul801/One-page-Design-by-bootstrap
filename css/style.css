@@ -1,0 +1,70 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Lora', serif;
+	width: 100%;
+}
+
+#heder_area{background: #fff; width: 100%;padding: 0;clear: both;}
+
+#heder_area{float: right;}
+
+/*Top Right*/
+#heder_area ul#search{list-style: none;margin: 0;padding-top: 0px; float: right;}
+#heder_area ul#search li{display: inline-block;position: relative; clear: both; }
+#heder_area ul#search li #boders{border-right: 1px solid #ddd;}
+#heder_area ul#search li a i{display: block;padding: 10px;  border-radius: 50%;width: 35px;height: 35px; }
+
+
+/*Top center*/
+#heder_area #tocenter{}
+#heder_area ul#tocenter{list-style: none;margin-top: 50px;padding: 0; text-decoration: none;}
+#heder_area ul#tocenter li{display: inline-block; border-right: 1px solid #fff; }
+#heder_area ul#tocenter li a{display: block;padding: 10px; text-decoration: none;}
+
+/*Mwnu*/
+#menu_area{margin-top:70px;   clear: both;padding-bottom: 20px;}
+
+#menu_area ul#nav{border-bottom: 1px solid #ddd;padding-bottom:10px;  list-style: none;margin: 0;padding: 0;text-align: left;}
+#menu_area ul#nav li{display: inline-block;position: relative;}
+#menu_area ul#nav li a{display: block;padding: 0 18px; font-size: 15px; color: #a7a9ac;padding: 26px 19px;}
+
+#menu_area ul#nav li a:hover{background-color: #04b8eb; color: #fff;}
+
+
+#linkSection{ }
+
+
+
+
+#profile{padding-top: 20px;}
+#profile h2{font-size: 50px; padding-top: 105px; border-bottom: 2px solid #04b8eb;margin: 0px}
+#profile h3{font-size: 40px; color: #04b8eb;}
+#profile p{font-size: 20px; color: #58595b;}
+#profile img{float: right;}
+
+/*paragraph*/
+#paragraph{padding-bottom: 70px;}
+#paragraph p{font-size: 14px;color: #323232;}
+#paragraph h4{font-size: 14px;color: #04b8eb;}
+
+#footer{background-color: #001e5f;color: #fff;width: 100%;padding-top: 25px;}
+#footer h2{font-size: 20px;}
+#footer p{font-size: 10px;}
+#footer h3{font-size: 12px; color: #fff;}
+
+
+#footer ul#foot{margin: 0px;padding;0px; text-decoration: none}
+#footer input[text]{background: #001e5f; color: #fff;}
+#footer ul#foot li{}
+#footer ul#foot li a{font-size: 12px;color: #fff;}
+
+
+#foooterSection{background-color: #001b55;color: #fff;  }
+#foooterSection h2{font-size: 12px; padding-top: 10px;}
+
+#foooterSection ul#search{list-style: none;margin: 0;padding: 0;}
+#foooterSection ul#search li{display: inline-block;position: relative; clear: both;}
+#foooterSection ul#search li a i{display: block;padding: 10px;  border-radius: 50%;width: 35px;height: 35px;}
